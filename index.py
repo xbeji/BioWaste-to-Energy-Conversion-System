@@ -1,4 +1,3 @@
-# Placeholder code for BioWaste-to-Energy Conversion System
 
 class OrganicWasteCollector:
     def __init__(self):
@@ -10,7 +9,7 @@ class OrganicWasteCollector:
 
 class AnaerobicDigester:
     def __init__(self):
-        self.biogas_production_rate = 0.5  # Placeholder rate, replace with actual value
+        self.biogas_production_rate = 0.5  # Placeholder rate
 
     def produce_biogas(self, organic_waste):
         # Simulate biogas production based on the amount of organic waste
